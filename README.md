@@ -16,7 +16,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/DeepakS0NI">
     <img src="https://img.shields.io/badge/GitHub-Profile-1F1635?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/deepak-soni-48ab43350">
@@ -94,9 +94,9 @@ A physiotherapy website built with React, focused on presenting physiotherapy se
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=B794F4&icon_color=9C27B0&text_color=E9D5FF&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakS0NI&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=B794F4&icon_color=9C27B0&text_color=E9D5FF&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=B794F4&text_color=E9D5FF" height="180" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakS0NI&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=B794F4&text_color=E9D5FF" height="180" alt="Most-used programming languages"/>
 
 </div>
 
@@ -106,7 +106,7 @@ A physiotherapy website built with React, focused on presenting physiotherapy se
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0B1E&ring=9C27B0&fire=B794F4&currStreakLabel=B794F4&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" width="70%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=DeepakS0NI&hide_border=true&background=0D0B1E&ring=9C27B0&fire=B794F4&currStreakLabel=B794F4&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -116,7 +116,7 @@ A physiotherapy website built with React, focused on presenting physiotherapy se
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0B1E&color=E9D5FF&line=9C27B0&point=B794F4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakS0NI&bg_color=0D0B1E&color=E9D5FF&line=9C27B0&point=B794F4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
