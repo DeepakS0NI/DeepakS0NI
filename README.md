@@ -112,16 +112,6 @@ A physiotherapy website built with React, focused on presenting physiotherapy se
 
 ---
 
-## 🗓️ Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakS0NI&bg_color=0D0B1E&color=E9D5FF&line=9C27B0&point=B794F4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - Building stronger backend development skills with ASP.NET Core.
